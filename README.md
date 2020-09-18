@@ -1,0 +1,1 @@
+This is a dating application where users can create their account or login using their account, see other people available on tinder and propose to them. They can also send/receive requests from users and accept them.
